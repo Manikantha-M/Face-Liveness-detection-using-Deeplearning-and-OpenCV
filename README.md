@@ -11,9 +11,9 @@
 # Outputs of webcam stream
 ## output1
  <p align="center">
-   <img src="CovidAP.png">
+   <img src="output1.gif">
   </p>
 
  <p align="center">
-   <img src="CovidTS.png">
+   <img src="output2.gif">
   </p>

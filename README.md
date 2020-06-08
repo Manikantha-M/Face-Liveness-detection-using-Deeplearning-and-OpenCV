@@ -1,4 +1,4 @@
-# TG hackathon
+# TG hackathon 2
 ## training the model
  <p align="center">
    <img src="train1.JPG">

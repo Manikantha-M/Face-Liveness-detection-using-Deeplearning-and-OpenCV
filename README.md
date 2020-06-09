@@ -31,6 +31,7 @@
   
   # Theory
   In order to create the liveness detector, I’ll be training a deep neural network capable of distinguishing between real versus fake faces
+
 1.Build the image dataset itself.
 
 2.Implement a CNN capable of performing liveness detector.

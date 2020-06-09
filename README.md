@@ -20,11 +20,13 @@
   </p>
   
  ## sample dataset for real(liveness)
+ Obtained from video of myself.
  <p align="center">
    <img src="cap1.JPG">
   </p>
   
 ## sample dataset  for fake(pic,video)
+Video shooted while the orignal video playing on my laptop screen.
  <p align="center">
    <img src="Cap2.JPG">
   </p>
@@ -39,3 +41,14 @@
 3.Train the liveness detector network.
 
 4.Create a Python + OpenCV script capable of taking our trained liveness detector model and apply it to real-time video.
+
+I'll be treating liveness detection as a binary classification problem.
+
+Given an input image, I’ll train a Convolutional Neural Network capable of distinguishing real faces from fake faces.
+
+In order to build the liveness detection dataset:
+
+I Took my Phone and put it in selfie mode. Recorded a ~12-second video of myself.
+Replayed the same 12-second video, this time facing my Phone towards my laptop where I recorded the video replaying.
+This resulted in two example videos, one for “real” faces and another for “fake” faces.
+Finally, I applied face detection to both sets of videos to extract individual face ROIs for both classes.

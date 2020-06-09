@@ -59,5 +59,5 @@ Real = 148 and Fake = 121;  Total = 269 faces.
 ### livenessnet.py
 The next step is to implement “LivenessNet”, the deep learning-based liveness detector.
 <p align="center">
-   <img src="Cap2.JPG">
+   <img src="Cap2.videos/img2.png">
   </p>

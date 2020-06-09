@@ -1,5 +1,5 @@
 # TG hackathon 2
-## training the model
+## training the liveness detection model
  <p align="center">
    <img src="train1.JPG">
   </p>
@@ -8,7 +8,7 @@
    <img src="train2.JPG">
   </p>
 
-# Outputs of webcam stream
+# Outputs of webcam stream real(liveness) vs fake(pic,video)
 ## output1
  <p align="center">
    <img src="output1.gif">

@@ -28,3 +28,13 @@
  <p align="center">
    <img src="Cap2.JPG">
   </p>
+  
+  # Theory
+  In order to create the liveness detector, I’ll be training a deep neural network capable of distinguishing between real versus fake faces
+1.Build the image dataset itself.
+
+2.Implement a CNN capable of performing liveness detector.
+
+3.Train the liveness detector network.
+
+4.Create a Python + OpenCV script capable of taking our trained liveness detector model and apply it to real-time video.

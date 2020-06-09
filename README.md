@@ -8,7 +8,7 @@
    <img src="train2.JPG">
   </p>
 
-# Outputs of webcam stream real(liveness) vs fake(pic,video)
+# Outputs of webcam stream - real(liveness) vs fake(pic,video)
 ## output1
  <p align="center">
    <img src="output1.gif">

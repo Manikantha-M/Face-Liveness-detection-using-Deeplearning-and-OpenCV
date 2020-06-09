@@ -52,3 +52,12 @@ I Took my Phone and put it in selfie mode. Recorded a ~12-second video of myself
 Replayed the same 12-second video, this time facing my Phone towards my laptop where I recorded the video replaying.
 This resulted in two example videos, one for “real” faces and another for “fake” faces.
 Finally, I applied face detection to both sets of videos to extract individual face ROIs for both classes.
+## Python scripts description
+### gather_examples.py :
+This script grabs face ROIs from input video files, and generates the required dataset.
+Real = 148 and Fake = 121;  Total = 269 faces.
+### livenessnet.py
+The next step is to implement “LivenessNet”, the deep learning-based liveness detector.
+<p align="center">
+   <img src="Cap2.JPG">
+  </p>

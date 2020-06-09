@@ -18,3 +18,13 @@
  <p align="center">
    <img src="output2.gif">
   </p>
+  
+ ## sample dataset for real(liveness)
+ <p align="center">
+   <img src="cap1.JPG">
+  </p>
+  
+## sample dataset  for fake(pic,video)
+ <p align="center">
+   <img src="Cap2.JPG">
+  </p>

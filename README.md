@@ -61,6 +61,7 @@ The next step is to implement “LivenessNet”, the deep learning-based livenes
 <p align="center">
    <img src="videos/img2.png">
   </p>
+
 ### train_liveness.py
 This consists all the code required for training.
 ### liveness_demo.py

@@ -1,9 +1,7 @@
 # USAGE
 # python train_liveness.py --dataset dataset --model liveness.model --le le.pickle
 
-# set the matplotlib backend so figures can be saved in the background
-import matplotlib
-matplotlib.use("Agg")
+
 
 # import the necessary packages
 from files.livenessnet import LivenessNet

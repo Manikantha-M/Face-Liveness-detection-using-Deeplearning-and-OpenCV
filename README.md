@@ -69,5 +69,5 @@ Access the webcam stream and apply face detection to each frame. For each face d
 
 ## model summary
 <p align="center">
-   <img src="files/modeljpg.jpg">
+   <img src="files/modeljpg.JPG">
   </p>

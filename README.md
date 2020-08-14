@@ -1,4 +1,4 @@
-# Face recognizer using Deeplearning and computer vision
+# Face liveness detection
 ## training the liveness detection model
  <p align="center">
    <img src="train1.JPG">

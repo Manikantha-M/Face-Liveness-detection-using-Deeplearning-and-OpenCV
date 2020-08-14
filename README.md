@@ -1,4 +1,4 @@
-# TG hackathon 2
+# Face recognizer using Deeplearning and computer vision
 ## training the liveness detection model
  <p align="center">
    <img src="train1.JPG">
